@@ -21,7 +21,7 @@ Type
     property Marca: string read getMarca write setMarca;
     property Cor: String read getCor write setCor;
   end;
- //
+
 implementation
 
 { TVeiculo }
